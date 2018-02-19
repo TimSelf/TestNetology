@@ -1,0 +1,7 @@
+c:\users\артем\source\repos\Test Netology\Test Netology\bin\Debug\Test Netology.exe.config
+c:\users\артем\source\repos\Test Netology\Test Netology\bin\Debug\Test Netology.exe
+c:\users\артем\source\repos\Test Netology\Test Netology\bin\Debug\Test Netology.pdb
+c:\users\артем\source\repos\Test Netology\Test Netology\obj\Debug\Test Netology.csprojResolveAssemblyReference.cache
+c:\users\артем\source\repos\Test Netology\Test Netology\obj\Debug\Test Netology.csproj.CoreCompileInputs.cache
+c:\users\артем\source\repos\Test Netology\Test Netology\obj\Debug\Test Netology.exe
+c:\users\артем\source\repos\Test Netology\Test Netology\obj\Debug\Test Netology.pdb
